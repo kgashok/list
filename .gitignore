@@ -1,2 +1,4 @@
 core*
 a.out
+list
+*.o
